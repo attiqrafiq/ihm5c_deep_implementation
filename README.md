@@ -7,12 +7,15 @@
 ### Help to use the online predictor
 #### Step 1: Choose the Predictor Page from the given drop down menu
 <img width="1682" height="990" alt="image" src="https://github.com/user-attachments/assets/00b7a527-8148-4bad-915e-21862d28aa42" />
+
 #### Step 2: Paste any RNA sequence in the Input Area (You can use "Sample RNA Sequence" to try the model) and then press Submit
 <img width="1678" height="897" alt="image" src="https://github.com/user-attachments/assets/b4d295f8-60f5-4e32-8450-8bd6f9918767" />
+
 #### Step 3: Results will appear on the page along with prediction probability
 <img width="1678" height="682" alt="image" src="https://github.com/user-attachments/assets/26e93de3-9d1c-4c4c-8bbb-299c3a01c243" />
 
-
+#### Benchmark Dataset is available online in the Supplementary Data page (follow the below image for guidance)
+<img width="1685" height="713" alt="image" src="https://github.com/user-attachments/assets/321bca96-7e08-4e1f-9be1-1c823528352e" />
 
 
 
