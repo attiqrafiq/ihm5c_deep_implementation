@@ -14,7 +14,7 @@
 #### Step 3: Results will appear on the page along with prediction probability
 <img width="1678" height="682" alt="image" src="https://github.com/user-attachments/assets/26e93de3-9d1c-4c4c-8bbb-299c3a01c243" />
 
-#### Benchmark Dataset is available online in the Supplementary Data page (follow the below image for guidance)
+#### Benchmark Dataset is also available at https://hm5c-deeppred.streamlit.app in the Supplementary Data page (follow the below image for guidance)
 <img width="1685" height="713" alt="image" src="https://github.com/user-attachments/assets/321bca96-7e08-4e1f-9be1-1c823528352e" />
 
 
